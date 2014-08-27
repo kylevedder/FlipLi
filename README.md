@@ -12,10 +12,10 @@ See the below implementation example:
 
 	<div class="flipli">
 		<ul>
-			<li style="display: none;"><a href="https://www.google.com/search?q=letter%20a">A</a></li>
-			<li style="display: none;"><a href="https://www.google.com/search?q=letter%20b">B</a></li>
-			<li style="display: none;"><a href="https://www.google.com/search?q=letter%20c">C</a></li>
-			<li style="display: none;"><a href="https://www.google.com/search?q=letter%20d">D</a></li>
-			<li style="display: none;"><a href="https://www.google.com/search?q=letter%20e">E</a></li>
+			<li style="display: none;">A</li>
+			<li style="display: none;">B</li>
+			<li style="display: none;">C</li>
+			<li style="display: none;">D</li>
+			<li style="display: none;">E</li>
 		</ul>
 	</div>
