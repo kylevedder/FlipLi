@@ -6,7 +6,7 @@ Javascript file that flips between items in an HTML list.
 Use
 ===
 
-To use, include the script on your webpage and surround the list which you would like to flip between with a div with a class of "flipli".
+To use, include the script on your webpage and surround the list which you would like to flip between with a div with a class of "flipli". Each element in the list must have "style="display: none;"".
 
 See the below implementation example:
 
